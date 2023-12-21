@@ -13,16 +13,17 @@
 // SOLUTION:
 
 var maximumWealth = function (accounts) {
-  let result = [];
+  let maximum = [];
   for (let index = 0; index < accounts.length; index++) {
-    const element = accounts[index][index];
-    console.log(element);
+    let plus = accounts[index].reduce((a, b) => a + b);
+    maximum.push(plus);
   }
+  return Math.max(...maximum);
 };
 
 let accounts = [
-  [1, 2, 3],
+  [1, 2, 6],
   [3, 2, 1],
 ];
 
-maximumWealth(accounts);
+console.log(maximumWealth(accounts));
