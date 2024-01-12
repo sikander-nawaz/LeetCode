@@ -1,27 +1,32 @@
-// Given a signed 32-bit integer x, return x with its digits ans. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
-// Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
+// You are given two strings word1 and word2. Merge the strings by adding letters in alternating order, starting with word1. If a string is longer than the other, append the additional letters onto the end of the merged string.
+// Return the merged string.
 
 // Example 1:
-// Input: x = 123
-// Output: 321
+// Input: word1 = "abc", word2 = "pqr"
+// Output: "apbqcr"
+// Explanation: The merged string will be merged as so:
+// word1:  a   b   c
+// word2:    p   q   r
+// merged: a p b q c r
 
 // SOLUTION:
 
-var reverse = function (x) {
-  let str1 = x.toString();
-  let arr = str1.split("");
-  //   console.log(arr);
-  let reverse = arr.reverse();
-  //   console.log(ans);
-  let str = reverse.join("");
-  //   console.log(str);
-  let ans = x >= 0 ? parseInt(str) : -parseInt(str);
-  if (ans < Math.pow(-2, 31) || ans > Math.pow(2, 31) - 1) {
-    return 0;
-  } else {
-    return ans;
+var mergeAlternately = function (word1, word2) {
+  let ans = [];
+
+  for (let i = 0; i < Math.max(word1.length, word2.length); i++) {
+    if (i < word1.length) {
+      ans.push(word1[i]);
+    }
+
+    if (i < word2.length) {
+      ans.push(word2[i]);
+    }
   }
+
+  return ans.join("");
 };
 
-let x = 1534236469;
-console.log(reverse(x));
+let word1 = "abc";
+let word2 = "pqr";
+console.log(mergeAlternately(word1, word2));
