@@ -15,3 +15,6 @@
 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
   
+- ## Medium
+  1.  [Sort Colors](https://leetcode.com/problems/sort-colors)
+  2.  [Reverse Integer](https://leetcode.com/problems/reverse-integer)
