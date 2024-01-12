@@ -1,20 +1,21 @@
-// You are given the heads of two sorted linked lists list1 and list2.
-// Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
-// Return the head of the merged linked list.
+// Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
 // Example 1:
-// Input: list1 = [1,2,4], list2 = [1,3,4]
-// Output: [1,1,2,3,4,4]
+// Input: nums = [1,2,3,1]
+// Output: true
 
 // SOLUTION:
 
-var mergeTwoLists = function (list1, list2) {
-  let list = [...list1, ...list2];
-
-  return list.sort();
+var containsDuplicate = function (nums) {
+  for (let i = 0; i < nums.length - 1; i++) {
+    for (let j = i + 1; j < nums.length; j++) {
+      if (nums[i] === nums[j]) {
+        return true;
+      }
+    }
+  }
+  return false;
 };
 
-let list1 = [1, 2, 4];
-let list2 = [1, 3, 4];
-
-console.log(mergeTwoLists(list1, list2));
+let nums = [1, 2, 3, 1];
+console.log(containsDuplicate(nums));
