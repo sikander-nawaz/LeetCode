@@ -23,14 +23,13 @@
 19. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)
 20. [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
 21. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
-    <!-- []()
-    []()
-    []()
-    []()
-    []()
-    []()
-    []()
-    []() -->
+22. [Palindrome Number](https://leetcode.com/problems/palindrome-number)
+23. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+24. [To Lower Case](https://leetcode.com/problems/to-lower-case)
+25. [Plus One](https://leetcode.com/problems/plus-one)
+26. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)
+27. [Power of Two](https://leetcode.com/problems/power-of-two)
+28. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
 
 - ## Medium
 
