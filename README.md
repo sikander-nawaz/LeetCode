@@ -1,4 +1,4 @@
-# <div align='center'>Problem's Link</div>
+# <div align='center'>Problem Links</div>
 
 - ## Easy
 
@@ -30,6 +30,7 @@
 26. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)
 27. [Power of Two](https://leetcode.com/problems/power-of-two)
 28. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
+29. [Majority Element](https://leetcode.com/problems/majority-element)
 
 - ## Medium
 
