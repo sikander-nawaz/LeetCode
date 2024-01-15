@@ -32,6 +32,7 @@
 28. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
 29. [Majority Element](https://leetcode.com/problems/majority-element)
 30. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)
+31. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 
 - ## Medium
 
