@@ -34,6 +34,7 @@
 30. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)
 31. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 32. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+33. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)
 
 - ## Medium
 
