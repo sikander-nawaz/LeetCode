@@ -35,6 +35,7 @@
 31. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 32. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 33. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)
+34. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
 
 - ## Medium
 
