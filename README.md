@@ -39,6 +39,7 @@
 35. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)
 36. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 37. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
+38. [Shuffle String](https://leetcode.com/problems/shuffle-string)
 
 - ## Medium
 
