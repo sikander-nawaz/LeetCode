@@ -40,6 +40,7 @@
 36. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 37. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
 38. [Shuffle String](https://leetcode.com/problems/shuffle-string)
+39. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
 
 - ## Medium
 
