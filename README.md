@@ -42,7 +42,6 @@
 38. [Shuffle String](https://leetcode.com/problems/shuffle-string)
 39. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
 40. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year)
-41. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)
 
 - ## Medium
 
@@ -50,3 +49,4 @@
 2.  [Reverse Integer](https://leetcode.com/problems/reverse-integer)
 3.  [Jump Game](https://leetcode.com/problems/jump-game)
 4.  [Print Words Vertically](https://leetcode.com/problems/print-words-vertically)
+5.  [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)
