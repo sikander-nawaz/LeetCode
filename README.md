@@ -42,6 +42,7 @@
 38. [Shuffle String](https://leetcode.com/problems/shuffle-string)
 39. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
 40. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year)
+41. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)
 
 - ## Medium
 
