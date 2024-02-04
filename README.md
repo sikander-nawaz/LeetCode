@@ -45,6 +45,7 @@
 41. [Divisor Game](https://leetcode.com/problems/divisor-game)
 42. [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)
 43. [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)
+44. [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)
 
 - ## Medium
 
