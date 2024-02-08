@@ -59,3 +59,4 @@
 6.  [House Robber](https://leetcode.com/problems/house-robber)
 7.  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 8.  [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+9.  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
