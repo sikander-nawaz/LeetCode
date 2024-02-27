@@ -49,6 +49,7 @@
 45. [Missing Number](https://leetcode.com/problems/missing-number)
 46. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
 47. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
+48. [Arranging Coins](https://leetcode.com/problems/arranging-coins)
 
 - ## Medium
 
