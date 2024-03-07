@@ -51,7 +51,7 @@
 47. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 48. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
 49. [Arranging Coins](https://leetcode.com/problems/arranging-coins)
-<!-- 50. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) -->
+50. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 
 - ## Medium
 
