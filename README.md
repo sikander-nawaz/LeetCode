@@ -69,3 +69,4 @@
 9.  [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 10. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
 11. [Custom Sort String](https://leetcode.com/problems/custom-sort-string)
+12. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
