@@ -55,6 +55,7 @@
 51. [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
 52. [Minimum Common Value](https://leetcode.com/problems/minimum-common-value)
 53. [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer)
+54. [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 
 - ## Medium
 
