@@ -75,3 +75,4 @@
 14. [Target Sum](https://leetcode.com/problems/target-sum/)
 15. [Course Schedule](https://leetcode.com/problems/course-schedule)
 16. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+17. [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i)
