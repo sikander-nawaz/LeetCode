@@ -19,7 +19,7 @@
 15. [01 - Two Sum](https://leetcode.com/problems/two-sum)
 16. [1950 - Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)
 17. [58 - Length of Last Word](https://leetcode.com/problems/length-of-last-word)
-18. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
+18. [191 - Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 19. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)
 20. [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
 21. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
