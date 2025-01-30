@@ -15,7 +15,7 @@
 11. [1899 - Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 12. [1833 - Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 13. [861 - Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
-14. [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+14. [242 - Valid Anagram](https://leetcode.com/problems/valid-anagram)
 15. [Two Sum](https://leetcode.com/problems/two-sum)
 16. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)
 17. [Length of Last Word](https://leetcode.com/problems/length-of-last-word)
