@@ -17,7 +17,7 @@
 13. [861 - Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 14. [242 - Valid Anagram](https://leetcode.com/problems/valid-anagram)
 15. [01 - Two Sum](https://leetcode.com/problems/two-sum)
-16. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)
+16. [1950 - Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array)
 17. [Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 18. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 19. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)
