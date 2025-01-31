@@ -73,5 +73,5 @@
 12. [46 - Permutations](https://leetcode.com/problems/permutations)
 13. [494 - Target Sum](https://leetcode.com/problems/target-sum/)
 14. [207 - Course Schedule](https://leetcode.com/problems/course-schedule)
-15. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+15. [33 - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 16. [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i)
