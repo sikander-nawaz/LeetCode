@@ -61,7 +61,7 @@
 
 1.  [75 - Sort Colors](https://leetcode.com/problems/sort-colors)
 2.  [07 - Reverse Integer](https://leetcode.com/problems/reverse-integer)
-3.  [Jump Game](https://leetcode.com/problems/jump-game)
+3.  [55 - Jump Game](https://leetcode.com/problems/jump-game)
 4.  [Print Words Vertically](https://leetcode.com/problems/print-words-vertically)
 5.  [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)
 6.  [House Robber](https://leetcode.com/problems/house-robber)
