@@ -70,7 +70,7 @@
 9.  [03 - Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 10. [807 - Custom Sort String](https://leetcode.com/problems/custom-sort-string)
 11. [238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
-12. [Permutations](https://leetcode.com/problems/permutations)
+12. [46 - Permutations](https://leetcode.com/problems/permutations)
 13. [Target Sum](https://leetcode.com/problems/target-sum/)
 14. [Course Schedule](https://leetcode.com/problems/course-schedule)
 15. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
