@@ -30,7 +30,7 @@
 25. [1205 - Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)
 26. [231 - Power of Two](https://leetcode.com/problems/power-of-two)
 27. [1894 - Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
-28. [Majority Element](https://leetcode.com/problems/majority-element)
+28. [169 - Majority Element](https://leetcode.com/problems/majority-element)
 29. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)
 30. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 31. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
