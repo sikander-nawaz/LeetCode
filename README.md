@@ -82,3 +82,4 @@
 3. [273 - Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
 4. [440 - K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/)
 5. [664 - Strange Printer](https://leetcode.com/problems/strange-printer/description/)
+6. [726 - Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)
