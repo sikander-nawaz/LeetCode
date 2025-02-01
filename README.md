@@ -24,7 +24,6 @@
 20. [1781 - Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
 21. [125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 22. [09 - Palindrome Number](https://leetcode.com/problems/palindrome-number)
-<!-- 23. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) -->
 23. [742 - To Lower Case](https://leetcode.com/problems/to-lower-case)
 24. [66 - Plus One](https://leetcode.com/problems/plus-one)
 25. [1205 - Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)
@@ -75,3 +74,7 @@
 14. [207 - Course Schedule](https://leetcode.com/problems/course-schedule)
 15. [33 - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 16. [3235 - Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i)
+
+- ## Hard
+
+1. [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
