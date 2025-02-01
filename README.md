@@ -22,7 +22,7 @@
 18. [191 - Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 19. [1406 - Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)
 20. [1781 - Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
-21. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+21. [125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 22. [Palindrome Number](https://leetcode.com/problems/palindrome-number)
 23. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 24. [To Lower Case](https://leetcode.com/problems/to-lower-case)
