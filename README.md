@@ -79,4 +79,4 @@
 
 1. [04 - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 2. [214 - Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)
-3. [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
+3. [273 - Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
