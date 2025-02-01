@@ -28,7 +28,7 @@
 23. [742 - To Lower Case](https://leetcode.com/problems/to-lower-case)
 24. [66 - Plus One](https://leetcode.com/problems/plus-one)
 25. [1205 - Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)
-26. [Power of Two](https://leetcode.com/problems/power-of-two)
+26. [231 - Power of Two](https://leetcode.com/problems/power-of-two)
 27. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)
 28. [Majority Element](https://leetcode.com/problems/majority-element)
 29. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)
