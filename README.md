@@ -76,6 +76,7 @@
 16. [3235 - Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i)
 17. [74 - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
 18. [1002 - Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp)
+19. [1147 - Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)
 
 - ## Hard
 
