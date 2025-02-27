@@ -77,6 +77,7 @@
 17. [74 - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
 18. [1002 - Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp)
 19. [1147 - Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)
+20. [05 - Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 
 - ## Hard
 
