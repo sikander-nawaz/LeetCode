@@ -81,6 +81,7 @@
 20. [05 - Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 21. [1196 - Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)
 22. [1240 - Stone Game II](https://leetcode.com/problems/stone-game-ii)
+23. [1435 - XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray)
 
 - ## Hard
 
