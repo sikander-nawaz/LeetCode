@@ -82,6 +82,7 @@
 21. [1196 - Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)
 22. [1240 - Stone Game II](https://leetcode.com/problems/stone-game-ii)
 23. [1435 - XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray)
+24. [264 - Ugly Number II](https://leetcode.com/problems/ugly-number-ii)
 
 - ## Hard
 
