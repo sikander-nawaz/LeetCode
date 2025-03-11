@@ -84,6 +84,7 @@
 23. [1435 - XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray)
 24. [264 - Ugly Number II](https://leetcode.com/problems/ugly-number-ii)
 25. [167 - Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+26. [153 - Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 
 - ## Hard
 
