@@ -87,6 +87,7 @@
 26. [153 - Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 27. [61 - Rotate List](https://leetcode.com/problems/rotate-list)
 28. [984 - Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
+29. [2089 - Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum)
 
 - ## Hard
 
