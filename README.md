@@ -89,6 +89,7 @@
 28. [984 - Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
 29. [2089 - Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum)
 30. [1849 - Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray)
+31. [2006 - Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk)
 
 - ## Hard
 
