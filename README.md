@@ -90,6 +90,7 @@
 29. [2089 - Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum)
 30. [1849 - Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray)
 31. [2006 - Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk)
+32. [2067 - Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost)
 
 - ## Hard
 
