@@ -93,6 +93,7 @@
 32. [2067 - Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost)
 33. [2255 - Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii)
 34. [1679 - Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted)
+35. [2179 - Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query)
 
 - ## Hard
 
