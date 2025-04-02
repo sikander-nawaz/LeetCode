@@ -37,7 +37,7 @@
 33. [1378 - Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)
 34. [1421 - Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
 35. [1797 - Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)
-36. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+36. [70 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 37. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum)
 38. [Shuffle String](https://leetcode.com/problems/shuffle-string)
 39. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
