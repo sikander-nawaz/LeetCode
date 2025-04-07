@@ -43,7 +43,7 @@
 39. [1970 - Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
 40. [1983 - Maximum Population Year](https://leetcode.com/problems/maximum-population-year)
 41. [1086 - Divisor Game](https://leetcode.com/problems/divisor-game)
-42. [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)
+42. [2128 - Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)
 43. [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)
 44. [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)
 45. [Missing Number](https://leetcode.com/problems/missing-number)
