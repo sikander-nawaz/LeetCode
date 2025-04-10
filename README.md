@@ -46,7 +46,7 @@
 42. [2128 - Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)
 43. [1823 - Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)
 44. [2099 - Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word)
-45. [Missing Number](https://leetcode.com/problems/missing-number)
+45. [268 - Missing Number](https://leetcode.com/problems/missing-number)
 46. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
 47. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 48. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
