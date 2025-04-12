@@ -49,7 +49,7 @@
 45. [268 - Missing Number](https://leetcode.com/problems/missing-number)
 46. [349 - Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
 47. [14 - Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
-48. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
+48. [1013 - Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
 49. [Arranging Coins](https://leetcode.com/problems/arranging-coins)
 50. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 51. [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
