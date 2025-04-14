@@ -105,3 +105,4 @@
 4. [440 - K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/)
 5. [664 - Strange Printer](https://leetcode.com/problems/strange-printer/description/)
 6. [726 - Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)
+7. [862 - Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k)
