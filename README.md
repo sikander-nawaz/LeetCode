@@ -108,3 +108,4 @@
 7. [862 - Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k)
 8. [1766 - Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)
 9. [2171 - Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination)
+10. [2472 - Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions)
