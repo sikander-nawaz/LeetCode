@@ -24,5 +24,4 @@ class Solution:
             if left_lis[i] > 1 and right_lis[i] > 1:  # Must be a peak
                 max_mountain_length = max(max_mountain_length, left_lis[i] + right_lis[i] - 1)
 
-        # Minimum removals
         return n - max_mountain_length if max_mountain_length > 0 else n
