@@ -1,7 +1,6 @@
 class Solution:
     def shortestSubarray(self, nums: List[int], k: int) -> int:
         n = len(nums)
-        # Create prefix sum array
         prefix = [0] * (n + 1)
         for i in range(n):
             prefix[i + 1] = prefix[i] + nums[i]
