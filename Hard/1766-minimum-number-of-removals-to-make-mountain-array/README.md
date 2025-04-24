@@ -35,5 +35,5 @@
 <ul>
 	<li><code>3 &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
-	<li>It is guaranteed that you can make a mountain array out of <code>nums</code>.</li>
+	<li>It is guaranteed that you can make a mountain array out of <code>nums</code></li>
 </ul>
