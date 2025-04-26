@@ -59,6 +59,7 @@
 55. [27 - Remove Element](https://leetcode.com/problems/remove-element)
 56. [145 - Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
 57. [206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+58. [228 - Summary Ranges](https://leetcode.com/problems/summary-ranges)
 
 - ## Medium
 
