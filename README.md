@@ -56,6 +56,7 @@
 52. [2634 - Minimum Common Value](https://leetcode.com/problems/minimum-common-value)
 53. [2571 - Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer)
 54. [35 - Search Insert Position](https://leetcode.com/problems/search-insert-position)
+55. [27 - Remove Element](https://leetcode.com/problems/remove-element)
 
 - ## Medium
 
