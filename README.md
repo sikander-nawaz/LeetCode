@@ -58,6 +58,7 @@
 54. [35 - Search Insert Position](https://leetcode.com/problems/search-insert-position)
 55. [27 - Remove Element](https://leetcode.com/problems/remove-element)
 56. [145 - Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
+57. [206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 
 - ## Medium
 
