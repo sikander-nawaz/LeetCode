@@ -98,6 +98,7 @@
 35. [2179 - Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query)
 36. [2107 - Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string)
 37. [2599 - Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right)
+38. [179 - Largest Number](https://leetcode.com/problems/largest-number)
 
 - ## Hard
 
