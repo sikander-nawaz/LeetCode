@@ -57,6 +57,7 @@
 53. [2571 - Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer)
 54. [35 - Search Insert Position](https://leetcode.com/problems/search-insert-position)
 55. [27 - Remove Element](https://leetcode.com/problems/remove-element)
+56. [145 - Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
 
 - ## Medium
 
