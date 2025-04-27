@@ -107,6 +107,7 @@
 39. [215 - Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 40. [241 - Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)
 41. [539 - Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference)
+42. [592 - Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)
 
 - ## Hard
 
