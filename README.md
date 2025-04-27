@@ -102,7 +102,7 @@
 36. [2107 - Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string)
 37. [2599 - Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right)
 38. [179 - Largest Number](https://leetcode.com/problems/largest-number)
-39. [215 - Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+39. [241 - Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)
 
 - ## Hard
 
