@@ -108,6 +108,7 @@
 40. [241 - Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)
 41. [539 - Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference)
 42. [592 - Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)
+43. [624 - Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays)
 
 - ## Hard
 
