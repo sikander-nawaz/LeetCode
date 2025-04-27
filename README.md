@@ -116,6 +116,7 @@
 44. [725 - Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts)
 45. [735 - Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
 46. [870 - Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid)
+47. [906 - Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation)
 
 - ## Hard
 
