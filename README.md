@@ -65,6 +65,7 @@
 61. [476 - Number Complement](https://leetcode.com/problems/number-complement)
 62. [682 - Baseball Game](https://leetcode.com/problems/baseball-game/)
 63. [776 - N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)
+64. [874 - Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
 
 - ## Medium
 
