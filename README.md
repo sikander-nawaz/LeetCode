@@ -66,6 +66,7 @@
 62. [682 - Baseball Game](https://leetcode.com/problems/baseball-game/)
 63. [776 - N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)
 64. [874 - Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
+65. [890 - Lemonade Change](https://leetcode.com/problems/lemonade-change)
 
 - ## Medium
 
