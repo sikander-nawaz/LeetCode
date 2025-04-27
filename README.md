@@ -113,6 +113,7 @@
 43. [624 - Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays)
 44. [725 - Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts)
 45. [735 - Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
+46. [870 - Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid)
 
 - ## Hard
 
