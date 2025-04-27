@@ -111,6 +111,7 @@
 42. [592 - Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)
 43. [624 - Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays)
 44. [725 - Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts)
+45. [735 - Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
 
 - ## Hard
 
