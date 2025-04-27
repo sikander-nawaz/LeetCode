@@ -63,6 +63,7 @@
 59. [232 - Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 60. [383 - Ransom Note](https://leetcode.com/problems/ransom-note)
 61. [476 - Number Complement](https://leetcode.com/problems/number-complement)
+62. [682 - Baseball Game](https://leetcode.com/problems/baseball-game/)
 
 - ## Medium
 
