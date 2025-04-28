@@ -68,6 +68,7 @@
 64. [874 - Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
 65. [890 - Lemonade Change](https://leetcode.com/problems/lemonade-change)
 66. [920 - Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)
+67. [969 - Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)
 
 - ## Medium
 
