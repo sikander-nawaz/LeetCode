@@ -118,6 +118,7 @@
 45. [735 - Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
 46. [870 - Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid)
 47. [906 - Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation)
+48. [921 - Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)
 
 - ## Hard
 
