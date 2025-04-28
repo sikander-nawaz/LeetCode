@@ -70,6 +70,7 @@
 66. [920 - Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)
 67. [969 - Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)
 68. [1556 - Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)
+69. [1755 - Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb)
 
 - ## Medium
 
