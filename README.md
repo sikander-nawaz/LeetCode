@@ -72,6 +72,7 @@
 68. [1556 - Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)
 69. [1755 - Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb)
 70. [1786 - Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
+71. [1802 - Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 
 - ## Medium
 
