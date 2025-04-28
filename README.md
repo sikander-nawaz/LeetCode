@@ -71,6 +71,7 @@
 67. [969 - Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)
 68. [1556 - Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)
 69. [1755 - Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb)
+70. [1786 - Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
 
 - ## Medium
 
