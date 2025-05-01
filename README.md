@@ -131,6 +131,7 @@
 51. [1615 - Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums)
 52. [1850 - Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)
 53. [2107 - Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string)
+54. [2155 - Find Missing Observations](https://leetcode.com/problems/find-missing-observations)
 
 - ## Hard
 
