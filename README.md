@@ -74,6 +74,7 @@
 70. [1786 - Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
 71. [1802 - Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 72. [2076 - Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert)
+73. [2132 - Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array)
 
 - ## Medium
 
