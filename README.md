@@ -76,6 +76,7 @@
 72. [2076 - Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert)
 73. [2132 - Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array)
 74. [2163 - Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array)
+75. [2323 - Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)
 
 - ## Medium
 
