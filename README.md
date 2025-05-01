@@ -127,6 +127,7 @@
 49. [1473 - Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts)
 50. [1484 - Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree)
 51. [1615 - Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums)
+52. [1850 - Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends)
 
 - ## Hard
 
