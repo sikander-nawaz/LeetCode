@@ -143,6 +143,7 @@
 57. [2503 - Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and)
 58. [2573 - Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list)
 59. [2766 - Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays)
+60. [3174 - Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful)
 
 - ## Hard
 
