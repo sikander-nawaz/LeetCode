@@ -137,6 +137,7 @@
 54. [2155 - Find Missing Observations](https://leetcode.com/problems/find-missing-observations)
 55. [2221 - Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid)
 56. [2470 - Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)
+57. [2503 - Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and)
 
 - ## Hard
 
