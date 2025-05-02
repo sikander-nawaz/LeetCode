@@ -78,6 +78,7 @@
 74. [2163 - Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array)
 75. [2323 - Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)
 76. [2427 - First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice)
+77. [2580 - Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 
 - ## Medium
 
