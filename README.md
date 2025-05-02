@@ -146,6 +146,7 @@
 60. [3174 - Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful)
 61. [3380 - Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii)
 62. [3455 - Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations)
+63. [3501 - Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array)
 
 - ## Hard
 
