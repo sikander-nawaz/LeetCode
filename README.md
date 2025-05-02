@@ -80,6 +80,7 @@
 76. [2427 - First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice)
 77. [2580 - Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 78. [2645 - Pass the Pillow](https://leetcode.com/problems/pass-the-pillow)
+79. [2727 - Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens)
 
 - ## Medium
 
