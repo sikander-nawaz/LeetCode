@@ -77,6 +77,7 @@
 73. [2132 - Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array)
 74. [2163 - Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array)
 75. [2323 - Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)
+76. [2427 - First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice)
 
 - ## Medium
 
