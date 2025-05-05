@@ -1,5 +1,6 @@
 # <div align='center'>Problems' Links. </div>
 
+<!--
 - ## Easy
 
 1. [2048 - Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
@@ -80,7 +81,7 @@
 76. [2427 - First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice)
 77. [2580 - Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 78. [2645 - Pass the Pillow](https://leetcode.com/problems/pass-the-pillow)
-79. [2727 - Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens)
+79. [2727 - Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) -->
 
 - ## Medium
 
@@ -147,6 +148,7 @@
 61. [3380 - Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii)
 62. [3455 - Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations)
 63. [3501 - Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array)
+<!--
 
 - ## Hard
 
@@ -161,4 +163,4 @@
 9. [2171 - Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination)
 10. [2472 - Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions)
 11. [2803 - Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)
-12. [2846 - Robot Collisions](https://leetcode.com/problems/robot-collisions)
+12. [2846 - Robot Collisions](https://leetcode.com/problems/robot-collisions) -->
