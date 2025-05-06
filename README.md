@@ -148,6 +148,7 @@
 62. [3501 - Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array)
 63. [40 - Combination Sum II](https://leetcode.com/problems/combination-sum-ii)
 64. [47 - Permutations II](https://leetcode.com/problems/permutations-ii)
+65. [73 - Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)
 
 - ## Hard
 
