@@ -151,6 +151,7 @@
 65. [73 - Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)
 66. [81 - Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)
 67. [102 - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
+68. [128 - Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 
 - ## Hard
 
