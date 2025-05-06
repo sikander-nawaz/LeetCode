@@ -157,6 +157,7 @@
 71. [540 - Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array)
 72. [650 - 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)
 73. [784 - Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)
+74. [907 - Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
 
 - ## Hard
 
