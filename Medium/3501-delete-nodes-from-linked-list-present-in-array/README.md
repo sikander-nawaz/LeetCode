@@ -52,5 +52,5 @@
 	<li>All elements in <code>nums</code> are unique.</li>
 	<li>The number of nodes in the given list is in the range <code>[1, 10<sup>5</sup>]</code>.</li>
 	<li><code>1 &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
-	<li>The input is generated such that there is at least one node in the linked list that has a value not present in <code>nums</code>.</li>
+	<li>The input is generated such that there is at least one node in the linked list that has a value not present in <code>nums</code></li>
 </ul>
