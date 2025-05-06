@@ -156,6 +156,7 @@
 70. [513 - Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)
 71. [540 - Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array)
 72. [650 - 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)
+73. [784 - Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)
 
 - ## Hard
 
