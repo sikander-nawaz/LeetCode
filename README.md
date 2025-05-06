@@ -159,6 +159,7 @@
 73. [784 - Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)
 74. [907 - Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
 75. [917 - Boats to Save People](https://leetcode.com/problems/boats-to-save-people)
+76. [948 - Sort an Array](https://leetcode.com/problems/sort-an-array)
 
 - ## Hard
 
