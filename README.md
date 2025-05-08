@@ -164,6 +164,7 @@
 78. [999 - Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)
 79. [1298 - Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)
 80. [1325 - Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability)
+81. [1333 - Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers)
 
 - ## Hard
 
