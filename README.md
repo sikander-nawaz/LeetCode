@@ -161,6 +161,7 @@
 75. [917 - Boats to Save People](https://leetcode.com/problems/boats-to-save-people)
 76. [948 - Sort an Array](https://leetcode.com/problems/sort-an-array)
 77. [982 - Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique)
+78. [999 - Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)
 
 - ## Hard
 
