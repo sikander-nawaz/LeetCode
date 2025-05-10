@@ -166,6 +166,7 @@
 80. [1325 - Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability)
 81. [1333 - Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers)
 82. [1511 - Count Number of Teams](https://leetcode.com/problems/count-number-of-teams)
+83. [1653 - Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs)
 
 - ## Hard
 
