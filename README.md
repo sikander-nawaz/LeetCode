@@ -168,6 +168,7 @@
 82. [1511 - Count Number of Teams](https://leetcode.com/problems/count-number-of-teams)
 83. [1653 - Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs)
 84. [1711 - Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)
+85. [1803 - Average Waiting Time](https://leetcode.com/problems/average-waiting-time)
 
 - ## Hard
 
