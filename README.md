@@ -172,6 +172,7 @@
 86. [1818 - Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings)
 87. [1951 - Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)
 88. [2059 - Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences)
+89. [2217 - Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)
 
 - ## Hard
 
