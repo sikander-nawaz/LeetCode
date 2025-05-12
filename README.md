@@ -169,6 +169,7 @@
 83. [1653 - Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs)
 84. [1711 - Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)
 85. [1803 - Average Waiting Time](https://leetcode.com/problems/average-waiting-time)
+86. [1818 - Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings)
 
 - ## Hard
 
