@@ -170,6 +170,7 @@
 84. [1711 - Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)
 85. [1803 - Average Waiting Time](https://leetcode.com/problems/average-waiting-time)
 86. [1818 - Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings)
+87. [1951 - Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)
 
 - ## Hard
 
