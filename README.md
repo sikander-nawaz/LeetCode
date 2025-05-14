@@ -11,7 +11,6 @@
 7. [58 - Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 8. [66 - Plus One](https://leetcode.com/problems/plus-one)
 9. [70 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
-
 10. [2048 - Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 11. [2058 - Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 12. [1603 - Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
