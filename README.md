@@ -21,7 +21,6 @@
 17. [228 - Summary Ranges](https://leetcode.com/problems/summary-ranges)
 18. [231 - Power of Two](https://leetcode.com/problems/power-of-two)
 19. [232 - Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
-
 20. [2048 - Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 21. [2058 - Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 22. [1603 - Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
