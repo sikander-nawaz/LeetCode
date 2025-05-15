@@ -166,8 +166,13 @@
 80. [2255 - Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii)
 81. [2306 - Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions)
 82. [2411 - Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv)
-83. [2552 - Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k)
-84. [2599 - Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right)
+83. [2470 - Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)
+84. [2503 - Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and)
+85. [2552 - Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k)
+86. [2573 - Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list)
+87. [2599 - Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right)
+88. [2766 - Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays)
+89. [3174 - Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful)
 
 - ## Hard
 
