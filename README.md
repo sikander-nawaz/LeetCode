@@ -78,10 +78,10 @@
 74. [2571 - Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer)
 75. [2580 - Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 76. [2634 - Minimum Common Value](https://leetcode.com/problems/minimum-common-value)
+77. [2645 - Pass the Pillow](https://leetcode.com/problems/pass-the-pillow)
+78. [2727 - Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens)
 
-77. [3242 - Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
-78. [2645 - Pass the Pillow](https://leetcode.com/problems/pass-the-pillow)
-79. [2727 - Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens)
+79. [3242 - Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
 
 - ## Medium
 
