@@ -76,10 +76,10 @@
 72. [2323 - Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)
 73. [2427 - First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice)
 74. [2571 - Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer)
-
-75. [3242 - Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
+75. [2580 - Circular Sentence](https://leetcode.com/problems/circular-sentence/)
 76. [2634 - Minimum Common Value](https://leetcode.com/problems/minimum-common-value)
-77. [2580 - Circular Sentence](https://leetcode.com/problems/circular-sentence/)
+
+77. [3242 - Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
 78. [2645 - Pass the Pillow](https://leetcode.com/problems/pass-the-pillow)
 79. [2727 - Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens)
 
