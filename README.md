@@ -88,8 +88,9 @@
 84. [2634 - Minimum Common Value](https://leetcode.com/problems/minimum-common-value)
 85. [2645 - Pass the Pillow](https://leetcode.com/problems/pass-the-pillow)
 86. [2727 - Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens)
-87. [3429 - Special Array I](https://leetcode.com/problems/special-array-i)
-88. [3242 - Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
+87. [3412 - Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings)
+88. [3429 - Special Array I](https://leetcode.com/problems/special-array-i)
+89. [3242 - Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency)
 
 - ## Medium
 
