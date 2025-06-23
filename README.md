@@ -234,7 +234,9 @@
 | :--: | :----: | :--: | :---: |
 | 117  |   92   |  12  |  221  | -->
 
-<table border="1" style="text-align: center; margin: auto;">
+<div align="center">
+
+<table>
   <thead>
     <tr>
       <th>Easy</th>
@@ -252,3 +254,5 @@
     </tr>
   </tbody>
 </table>
+
+</div>
