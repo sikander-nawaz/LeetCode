@@ -229,3 +229,11 @@
 10. [2472 - Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions)
 11. [2803 - Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)
 12. [2846 - Robot Collisions](https://leetcode.com/problems/robot-collisions)
+
+# <div align='center'>
+
+<table>
+<th>Easy</th>
+<tb>117</tb>
+</table>
+</div>
