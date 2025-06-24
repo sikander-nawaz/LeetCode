@@ -234,18 +234,18 @@
 <table>
   <thead>
     <tr>
-      <th colspan="5">Easy</th>
-      <th colspan="5">Medium</th>
-      <th colspan="5">Hard</th>
-      <th colspan="5">Total</th>
+      <th colspan="3">Easy</th>
+      <th colspan="3">Medium</th>
+      <th colspan="3">Hard</th>
+      <th colspan="3">Total</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="5">117</td>
-      <td colspan="5">92</td>
-      <td colspan="5">12</td>
-      <td colspan="5">221</td>
+      <td colspan="3">117</td>
+      <td colspan="3">92</td>
+      <td colspan="3">12</td>
+      <td colspan="3">221</td>
     </tr>
   </tbody>
 </table>
