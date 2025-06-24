@@ -242,10 +242,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>117</td>
-      <td>92</td>
-      <td>12</td>
-      <td>221</td>
+      <td colspan="5">117</td>
+      <td colspan="5">92</td>
+      <td colspan="5">12</td>
+      <td colspan="5">221</td>
     </tr>
   </tbody>
 </table>
