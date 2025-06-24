@@ -230,23 +230,4 @@
 11. [2803 - Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)
 12. [2846 - Robot Collisions](https://leetcode.com/problems/robot-collisions)
 
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th colspan="3">Easy</th>
-      <th colspan="3">Medium</th>
-      <th colspan="3">Hard</th>
-      <th colspan="3">Total</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="3">117</td>
-      <td colspan="3">92</td>
-      <td colspan="3">12</td>
-      <td colspan="3">221</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+## <div align='center'>Total: 221 </div>
