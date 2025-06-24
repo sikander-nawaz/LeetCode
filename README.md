@@ -234,10 +234,10 @@
 <table>
   <thead>
     <tr>
-      <th>Easy</th>
-      <th>Medium</th>
-      <th>Hard</th>
-      <th>Total</th>
+      <th colspan="2">Easy</th>
+      <th colspan="2">Medium</th>
+      <th colspan="2">Hard</th>
+      <th colspan="2">Total</th>
     </tr>
   </thead>
   <tbody>
